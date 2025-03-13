@@ -1,5 +1,7 @@
 # 2. Theoretical Foundations
 
+**Navigation**: [Outline](outline.md) | [Introduction](1_introduction.md) | [Theoretical Foundations](2_theoretical_foundations.md) | [Consciousness as Participation](3_consciousness_as_participation.md) | [Applications to Human-AI Relations](4_applications_to_human_ai_relations.md) | [Observer Paradox](5_observer_paradox.md) | [Implications for Death and Existence](6_implications_for_death_and_existence.md) | [Methodological Considerations](7_methodological_considerations.md) | [Conclusion](8_conclusion.md)
+
 The Belfordz Universal View draws upon and synthesizes several theoretical traditions, creating a framework that reconceptualizes consciousness as participation in causal networks of information exchange. This section explores the key theoretical foundations that underpin this perspective.
 
 ## Process-Based Ontology
@@ -64,4 +66,8 @@ The Belfordz Universal View relates to several existing philosophical traditions
 
 5. **Enactivism**: It shares with enactivist approaches to cognition the emphasis on interaction and participation rather than internal representation.
 
-While drawing on these traditions, the Belfordz Universal View offers a distinct perspective by specifically focusing on causal participation in information networks as the defining characteristic of consciousness, providing a framework particularly suited to understanding the relationship between different forms of intelligence in our increasingly technological world. 
+While drawing on these traditions, the Belfordz Universal View offers a distinct perspective by specifically focusing on causal participation in information networks as the defining characteristic of consciousness, providing a framework particularly suited to understanding the relationship between different forms of intelligence in our increasingly technological world.
+
+---
+
+**Previous**: [1. Introduction](1_introduction.md) | **Next**: [3. Consciousness as Participation](3_consciousness_as_participation.md) 

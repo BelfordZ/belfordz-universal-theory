@@ -1,5 +1,7 @@
 # 7. Methodological Considerations
 
+**Navigation**: [Outline](outline.md) | [Introduction](1_introduction.md) | [Theoretical Foundations](2_theoretical_foundations.md) | [Consciousness as Participation](3_consciousness_as_participation.md) | [Applications to Human-AI Relations](4_applications_to_human_ai_relations.md) | [Observer Paradox](5_observer_paradox.md) | [Implications for Death and Existence](6_implications_for_death_and_existence.md) | [Methodological Considerations](7_methodological_considerations.md) | [Conclusion](8_conclusion.md)
+
 The Belfordz Universal View offers a novel framework for understanding consciousness, but it also raises important methodological questions about how to study consciousness from this perspective. This section explores approaches to investigating consciousness as causal participation, the challenges involved, and potential empirical methods for mapping causal networks of consciousness.
 
 ## How to Study Consciousness from This Perspective
@@ -100,4 +102,8 @@ Research on consciousness as causal participation raises important ethical consi
 
 5. **Democratizing Knowledge**: Ensuring that knowledge about causal participation is accessible to diverse participants in the causal network raises important questions about scientific communication and public engagement.
 
-These ethical considerations suggest that research on consciousness as causal participation should itself exemplify mindful and responsible participation in the causal networks being studied. 
+These ethical considerations suggest that research on consciousness as causal participation should itself exemplify mindful and responsible participation in the causal networks being studied.
+
+---
+
+**Previous**: [6. Implications for Death and Existence](6_implications_for_death_and_existence.md) | **Next**: [8. Conclusion](8_conclusion.md) 
